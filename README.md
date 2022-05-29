@@ -1,2 +1,2 @@
-# ground_control_v3
-# run main.py
+# Ground_Control
+# Run main.py and serial connection should be establishd
